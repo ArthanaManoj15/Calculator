@@ -1,0 +1,57 @@
+body {
+    background-image: linear-gradient(to left, white, rgb(66, 64, 64));
+}
+
+.box {
+    border: 2px solid black;
+    height: 410px;
+    background-color: black;
+    border-radius: 15px;
+}
+
+.heading {
+    text-align: center;
+    font-size: 40px;
+    color: beige;
+    font-weight: bolder;
+    text-shadow: 2px 2px black;
+}
+
+.form-control {
+    width: auto;
+}
+
+.btn {
+    font-weight: bolder;
+}
+
+.row1 .btn {
+    background-color: gray;
+}
+
+.rows .btn {
+    background-color: rgb(54, 53, 53);
+    color: white;
+    box-shadow: 1px 1px whitesmoke;
+}
+
+.btn-round {
+    border-radius: 50%;
+    padding: 10px 15px;
+    box-shadow: 1px 1px whitesmoke;
+}
+
+.form-control {
+    text-align: right;
+    font-size: 22px;
+    color: black;
+    border-color: black;
+    text-align: right;
+}
+
+.footer {
+    width: 120px;
+    height: 5px;
+    background-color: whitesmoke;
+    margin-left: 77px;
+}
